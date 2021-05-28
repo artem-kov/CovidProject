@@ -4,3 +4,6 @@ This repository will hold all the code for Covid project.
 **Part 1**
 
 1. Covid Project v1.sql -> SQL queries 
+
+2. [Tableau Dashboard](https://public.tableau.com/app/profile/artem.kovalenko/viz/CovidDashboard_16221916771560/Dashboard1)
+
