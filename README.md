@@ -1,4 +1,4 @@
-# Covid Data Analysis Project
+## Covid Data Analysis Project
 This repository will hold all the code for Covid project.
 
 **Project Parts**
