@@ -7,7 +7,7 @@ This repository will hold all the code for Covid project.
 
 2. Creating visualizations
 
-  * [Quering data for visualization use](https://github.com/artem-kov/CovidProject/blob/main/covidVisualizationQueries.sql)
+   * [Quering data for visualization use](https://github.com/artem-kov/CovidProject/blob/main/covidVisualizationQueries.sql)
 
-  * [Tableau Dashboard](https://public.tableau.com/app/profile/artem.kovalenko/viz/CovidDashboard_16221916771560/Dashboard1)
+   * [Tableau Dashboard](https://public.tableau.com/app/profile/artem.kovalenko/viz/CovidDashboard_16221916771560/Dashboard1)
 
